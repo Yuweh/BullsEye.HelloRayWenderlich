@@ -2,8 +2,6 @@
 1st App from RayWenderlich
 
 PROJECT GOALS
-
-- Bull's Eye
 - Add "Hit Me" button
 - Show popup when user taps it
 - Put slider on screen: 1 -> 100
