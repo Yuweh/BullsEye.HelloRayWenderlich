@@ -29,6 +29,8 @@ class ViewController: UIViewController {
         currentValue = lroundf(slider.value)
         startNewRound()
         
+        //used ImageLiteral on the ff.
+        
         let thumbImageNormal = #imageLiteral(resourceName: "SliderThumb-Normal") //UIImage(named: "SliderThumb-Normal")
         slider.setThumbImage(thumbImageNormal, for: .normal)
         
