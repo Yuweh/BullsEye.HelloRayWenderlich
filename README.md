@@ -13,3 +13,5 @@ PROJECT GOALS
 - Calculate and show score
 - Reset game if you tap game over
 - Make it look nice 😀
+
+*Layout Completed - Looks good on all iPhone Devices / too small for iPad though
